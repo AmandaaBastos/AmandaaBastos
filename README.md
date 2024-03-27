@@ -25,3 +25,18 @@
   - 🌷 I enjoy reading, whether it's a good (sometimes bad👀) book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving!
 </details>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-bastos-/)
+[![LinkedIn](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:amandabastoscorreia@gmail.com)
+
+<!-- Portfolio --
+## Portfolio:
+| Description                                                              | Repository                                                                | Website                                                                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![]() Name                                                               | [repository](https://github.com/                                          | https://                                                                          |
+>
+
+<!-- Skills: Programming Languages -->
+## 🔥 Skills
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,sqlite,git,github,&perline=10" />
+
+
