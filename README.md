@@ -1,5 +1,5 @@
 <!--header-->
-<div id="user-content-toc" align="center">
+<div align="center">
     <img width="100%" src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/f733ccf8-c4fb-4bee-b13a-dc4b7f4c5552" alt="gif">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+WORLD!">
     <h1>  </h1>
@@ -41,14 +41,18 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,sqlite,git,github,&perline=10" />
 </details>
 
-<div align="center">  
+<div align="center">
+    <h1>  </h1>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amandaabastos&show_icons=true&count_private=true&hide_border=true&title_color=ABFFB3&icon_color=ABFFB3&text_color=c9d1d9&bg_color=0d1117" alt="My github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaabastos&layout=compact&hide_border=true&title_color=ABFFB3&text_color=ABFFB3&bg_color=0d1117" />
 </div>
 
 <!-- Footer -->
-<img src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width="50%" height="50%"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+your+visit!">
-
+<div align="center">
+    <h1>  </h1>
+  <img src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width="50%" height="50%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&width=435&lines=Thank+you+for+your+visit!">
+</div>
 
 
  
