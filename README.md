@@ -46,7 +46,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaabastos&layout=compact&hide_border=true&title_color=ABFFB3&text_color=ABFFB3&bg_color=0d1117" />
 </div>
 
-<img src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width=50% height=50%><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+your+visit!">
+<!-- Footer -->
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width="50%" height="50%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+your+visit!">
+</div>
 
 
  
