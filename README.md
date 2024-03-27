@@ -50,7 +50,7 @@
 <!-- Footer -->
 <div align="center">
     <h1>  </h1>
-  <img src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width="50%" height="50%">
+  <img width="100%" src="https://github.com/AmandaaBastos/AmandaaBastos/assets/142990899/e5f505d8-73fd-42fd-9f67-e90341eba390" width="50%" height="50%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABFFB3&width=435&lines=Thank+you+for+your+visit!">
 </div>
 
