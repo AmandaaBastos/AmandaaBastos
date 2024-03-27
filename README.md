@@ -12,7 +12,7 @@
   
   - 🌿 I'm currently studying Computer Engeneering at UFBA - Federal University of Bahia
   
-  - 🍀 Now, I'm working as a backend development intern at Mercado Eletrônico
+  - 🍀 Now, I'm working as a backend developer intern at Mercado Eletrônico
 </p>
 
 <details>
