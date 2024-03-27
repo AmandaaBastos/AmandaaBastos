@@ -17,7 +17,11 @@
 
 <details>
   <summary>🦋More about me</summary>
+    
   - 🌹 I'm a girl currently living in Brazil, who just entered the world of technology and is hopeful and excited to learn more every day!! My native language is Portuguese but I still have fluency in English.
   
-  - 🐞 At the moment I have a little experience with C#, ASP.NET, Python, SQL... 
+  - 🐞 At the moment I have a little experience with C#, ASP.NET, Python, SQL... I also have a strong sense of leadership developed with years as a class leader😄 that led me to develop soft skills with people management, creativity, communication and a lot of patience😅.
+    
+  - 🌷 I enjoy reading, whether it's a good (sometimes bad👀) book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving!
 </details>
+
